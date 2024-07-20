@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-![photo1](https://github.com/user-attachments/assets/e49157f9-8189-4568-8cc0-b968f74c93f0)
+![photo1](https://github.com/user-attachments/assets/9c7be2be-ae10-4fc9-bcf0-d7d617d07f7c)
 
 ## Website features:
 - Website contains home, about me, skills, resume, projects, certificates and contact me.
@@ -14,11 +14,11 @@
 - Photo gallery
 - Downdoadable Cv
 
-![photo2](https://github.com/user-attachments/assets/e94964a8-f7fa-4912-b8b2-c135e7d71cde)
+![photo2](https://github.com/user-attachments/assets/2da5dfc5-ab23-4202-bac3-660211897811)
 
 ## Languages used:
 1. HTML5
 2. CSS
 3. JavaScript
 
-![photo3](https://github.com/user-attachments/assets/b0495dc8-c285-4428-a9e4-d8ef641a0e02)
+![photo3](https://github.com/user-attachments/assets/df25c9f4-19de-4910-bad3-8762de721ffd)
